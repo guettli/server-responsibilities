@@ -39,6 +39,7 @@ Initial, Expand, Repair
 * unsure ssh-server cert does not change (on upgrade, or server move)
 * install new packages (rpm, dpkg)
 * upgrade packages (fixes)
+* provide additional IP addresses
 
 Networking
 * provide default gateway
