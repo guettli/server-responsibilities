@@ -11,6 +11,9 @@ daily
 * run web server
 * install fixes RPM/DPKG
 * provide RPM/DPKG repository
+* run mail server
+* provide smarthost for mail server.
+* provide IMAP/POP3 services
 
 monitor
 * enough disk space
@@ -23,6 +26,7 @@ Expand, Repair
 * provide more CPU, RAM, IO
 * replace hardware parts
 * upgrade operating system
+* create new linux users
 
 Networking
 * Provide default gateway
