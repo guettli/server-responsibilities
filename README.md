@@ -1,5 +1,8 @@
 # server-responsibilities
 
+You want to host your application on servers provided by someone. Then check this list. Who is responsible for what?
+
+
 daily
 
 * provide dns server
@@ -14,19 +17,24 @@ daily
 * run mail server
 * provide smarthost for mail server.
 * provide IMAP/POP3 services
+* provide storage server
+* run storage client
 
 monitor
 * enough disk space
 * enough CPU, RAM, IO
 * system logs
 * application logs
+* RAID
 
-Expand, Repair
+Initial, Expand, Repair
 * provide more disc space (if needed)
 * provide more CPU, RAM, IO
 * replace hardware parts
 * upgrade operating system
 * create new linux users
+* manage RAID
+* Create Cert (for example for https)
 
 Networking
 * Provide default gateway
