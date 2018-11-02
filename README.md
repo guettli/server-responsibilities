@@ -5,7 +5,9 @@ You want to host your application on servers provided by someone. Then check thi
 Feedback is welcome
 
 
-## daily (no manual interaction)
+## daily
+
+No manual interaction should be needed for the daily usage.
 
 * provide dns server
 * provide ntp server
