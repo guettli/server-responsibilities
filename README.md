@@ -35,17 +35,17 @@ Initial, Expand, Repair
 * upgrade operating system
 * create new linux users
 * manage RAID
-* Create Cert (for example for https)
-* Create SSH-server cert
+* create Cert (for example for https)
+* create SSH-server cert
 * unsure ssh-server cert does not change (on upgrade, or server move)
 
 Networking
-* Provide default gateway
-* Maintain firewall
+* provide default gateway
+* maintain firewall
 
 Hardware
-* Provide power
-* Provide network
+* provide power
+* provide network
 * stand by hardware
 
 Backup
