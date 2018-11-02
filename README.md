@@ -47,7 +47,8 @@ No manual interaction should be needed for the daily usage.
 
 ## Networking
 * provide default gateway
-* maintain firewall
+* maintain local firewall (running on the server) (default should be "none")
+* maintain network firewall (running outside the server)
 
 ## Hardware
 * provide power
