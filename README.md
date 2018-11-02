@@ -2,8 +2,10 @@
 
 You want to host your application on servers provided by someone. Then check this list. Who is responsible for what?
 
+Feedback is welcome
 
-daily (no manual interaction)
+
+## daily (no manual interaction)
 
 * provide dns server
 * provide ntp server
@@ -20,14 +22,14 @@ daily (no manual interaction)
 * run storage client
 * run ssh server
 
-monitor
+## monitor
 * enough disk space
 * enough CPU, RAM, IO
 * system logs
 * application logs
 * RAID
 
-Initial, Expand, Repair
+## Initial, Expand, Repair
 * provide more disc space (if needed)
 * provide more CPU, RAM, IO
 * replace hardware parts
@@ -41,16 +43,16 @@ Initial, Expand, Repair
 * upgrade packages (fixes)
 * provide additional IP addresses
 
-Networking
+## Networking
 * provide default gateway
 * maintain firewall
 
-Hardware
+## Hardware
 * provide power
 * provide network
 * stand by hardware
 
-Backup
+## Backup
 * responsible for backup
 * responsible for restore from backup
 * responsible for checking if restore from backup would work.
