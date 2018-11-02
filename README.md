@@ -19,6 +19,7 @@ daily
 * provide IMAP/POP3 services
 * provide storage server
 * run storage client
+* run ssh server
 
 monitor
 * enough disk space
@@ -35,6 +36,8 @@ Initial, Expand, Repair
 * create new linux users
 * manage RAID
 * Create Cert (for example for https)
+* Create SSH-server cert
+* unsure ssh-server cert does not change (on upgrade, or server move)
 
 Networking
 * Provide default gateway
