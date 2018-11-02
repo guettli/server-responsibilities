@@ -3,7 +3,7 @@
 You want to host your application on servers provided by someone. Then check this list. Who is responsible for what?
 
 
-daily
+daily (no manual interaction)
 
 * provide dns server
 * provide ntp server
@@ -12,7 +12,6 @@ daily
 * provide database
 * run database client
 * run web server
-* install fixes RPM/DPKG
 * provide RPM/DPKG repository
 * run mail server
 * provide smarthost for mail server.
@@ -38,6 +37,8 @@ Initial, Expand, Repair
 * create Cert (for example for https)
 * create SSH-server cert
 * unsure ssh-server cert does not change (on upgrade, or server move)
+* install new packages (rpm, dpkg)
+* upgrade packages (fixes)
 
 Networking
 * provide default gateway
