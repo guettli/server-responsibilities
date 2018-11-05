@@ -84,3 +84,9 @@ No manual interaction should be needed for the daily usage.
 | responsible for checking if restore from backup would work. | |
 | responsible for checking uninterruptible power supply | |
 | Backup for database. | |
+
+## Misc
+
+| Topic | Responsible | Note |
+|-------|-------------|------|
+|Notify users about sheduled downtime| |
