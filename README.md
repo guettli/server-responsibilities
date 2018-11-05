@@ -4,26 +4,26 @@ You want to host your application on servers provided by someone. Then check thi
 
 Feedback is welcome
 
+** daily
+No manual interaction should be needed for the daily usage. |
 
-## daily
-
-No manual interaction should be needed for the daily usage.
-
-* provide dns server
-* provide ntp server
-* run dns client
-* run ntp client
-* provide database
-* run database client
-* run web server
-* provide RPM/DPKG repository
-* run mail server
-* provide smarthost for mail server.
-* provide IMAP/POP3 services
-* provide storage server
-* run storage client
-* run ssh server
-* Uninterruptible power supply
+| Topic | Responsible | Note |
+|-------|-------------|------|
+|provide dns server| |
+| provide ntp server | |
+| run dns client | |
+| run ntp client | |
+| provide database | |
+| run database client | |
+| run web server | |
+| provide RPM/DPKG repository | |
+| run mail server | |
+| provide smarthost for mail server. | |
+| provide IMAP/POP3 services | |
+| provide storage server | |
+| run storage client | |
+| run ssh server | |
+| Uninterruptible power supply | |
 
 
 ## Initial, Expand, Repair
