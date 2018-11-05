@@ -42,6 +42,8 @@ No manual interaction should be needed for the daily usage.
 * Create DNS entries for IP adresses.
 * create root password
 * know root password
+* manage crontab entries
+* enable/disable services
 
 ## Networking
 * provide default gateway
