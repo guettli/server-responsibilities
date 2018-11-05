@@ -48,27 +48,37 @@ No manual interaction should be needed for the daily usage. |
 | enable/disable services | |
 
 ## Networking
-* provide default gateway
-* maintain local firewall (running on the server) (default should be "none")
-* maintain network firewall (running outside the server)
-* maintain local routes (running on the server) (default should be "none")
+| Topic | Responsible | Note |
+|-------|-------------|------|
+| provide default gateway | |
+| maintain local firewall (running on the server) (default should be "none") | |
+| maintain network firewall (running outside the server) | |
+| maintain local routes (running on the server) (default should be "none") | |
+
+
 
 
 ## monitor
-* enough disk space
-* enough CPU, RAM, IO
-* system logs
-* application logs
-* RAID
+| Topic | Responsible | Note |
+|-------|-------------|------|
+| enough disk space | |
+| enough CPU, RAM, IO | |
+| system logs | |
+| application logs | |
+| RAID | |
 
 ## Hardware
-* provide power
-* provide network
-* stand by hardware
+| Topic | Responsible | Note |
+|-------|-------------|------|
+| provide power | |
+| provide network | |
+| stand by hardware | |
 
 ## Backup
-* responsible for backup
-* responsible for restore from backup
-* responsible for checking if restore from backup would work.
-* responsible for checking uninterruptible power supply
-* Backup for database.
+| Topic | Responsible | Note |
+|-------|-------------|------|
+| responsible for backup | |
+| responsible for restore from backup | |
+| responsible for checking if restore from backup would work. | |
+| responsible for checking uninterruptible power supply | |
+| Backup for database. | |
