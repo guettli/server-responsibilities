@@ -23,6 +23,7 @@ No manual interaction should be needed for the daily usage.
 * provide storage server
 * run storage client
 * run ssh server
+* Uninterruptible power supply
 
 ## monitor
 * enough disk space
@@ -60,3 +61,4 @@ No manual interaction should be needed for the daily usage.
 * responsible for backup
 * responsible for restore from backup
 * responsible for checking if restore from backup would work.
+* responsible for checking uninterruptible power supply
