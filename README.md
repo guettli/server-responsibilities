@@ -1,6 +1,6 @@
 # server-responsibilities
 
-You want to host your application on servers provided by someone. Then check this list. Who is responsible for what?
+You want to host your application on servers provided by someone. Then this checklist might help. Who is responsible for what?
 
 Feedback is welcome
 
