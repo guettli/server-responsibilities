@@ -69,3 +69,4 @@ No manual interaction should be needed for the daily usage.
 * responsible for restore from backup
 * responsible for checking if restore from backup would work.
 * responsible for checking uninterruptible power supply
+* Backup for database.
