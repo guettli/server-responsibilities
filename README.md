@@ -7,7 +7,7 @@ Details like [SLA (service-level agreements)](https://en.wikipedia.org/wiki/Serv
 Feedback is welcome
 
 ## Daily
-No manual interaction should be needed for the daily usage. |
+No manual interaction should be needed for the daily usage.
 
 | Topic | Responsible | Note |
 |-------|-------------|------|
