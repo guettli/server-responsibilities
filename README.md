@@ -40,6 +40,8 @@ No manual interaction should be needed for the daily usage.
 * upgrade packages (fixes)
 * provide IP addresses
 * Create DNS entries for IP adresses.
+* create root password
+* know root password
 
 ## Networking
 * provide default gateway
