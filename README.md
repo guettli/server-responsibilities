@@ -2,6 +2,8 @@
 
 You want to host your application on servers provided by someone. Then this checklist might help. Who is responsible for what?
 
+Details like [SLA (service-level agreements)](https://en.wikipedia.org/wiki/Service-level_agreement) can be build on top of each topic.
+
 Feedback is welcome
 
 ## Daily
@@ -9,7 +11,7 @@ No manual interaction should be needed for the daily usage. |
 
 | Topic | Responsible | Note |
 |-------|-------------|------|
-|provide dns server| |
+| provide dns server | |
 | provide ntp server | |
 | run dns client | |
 | run ntp client | |
