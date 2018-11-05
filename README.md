@@ -4,7 +4,7 @@ You want to host your application on servers provided by someone. Then check thi
 
 Feedback is welcome
 
-** daily
+## daily
 No manual interaction should be needed for the daily usage. |
 
 | Topic | Responsible | Note |
@@ -27,23 +27,25 @@ No manual interaction should be needed for the daily usage. |
 
 
 ## Initial, Expand, Repair
-* provide more disc space (if needed)
-* provide more CPU, RAM, IO
-* replace hardware parts
-* upgrade operating system
-* create new linux users
-* manage RAID
-* create Cert (for example for https)
-* create SSH-server cert
-* unsure ssh-server cert does not change (on upgrade, or server move)
-* install new packages (rpm, dpkg)
-* upgrade packages (fixes)
-* provide IP addresses
-* Create DNS entries for IP adresses.
-* create root password
-* know root password
-* manage crontab entries
-* enable/disable services
+| Topic | Responsible | Note |
+|-------|-------------|------|
+| provide more disc space (if needed) | |
+| provide more CPU, RAM, IO | |
+| replace hardware parts | |
+| upgrade operating system | |
+| create new linux users | |
+| manage RAID | |
+| create Cert (for example for https) | |
+| create SSH-server cert | |
+| unsure ssh-server cert does not change (on upgrade, or server move) | |
+| install new packages (rpm, dpkg) | |
+| upgrade packages (fixes) | |
+| provide IP addresses | |
+| Create DNS entries for IP adresses. | |
+| create root password | |
+| know root password | |
+| manage crontab entries | |
+| enable/disable services | |
 
 ## Networking
 * provide default gateway
