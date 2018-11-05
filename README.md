@@ -4,7 +4,7 @@ You want to host your application on servers provided by someone. Then check thi
 
 Feedback is welcome
 
-## daily
+## Daily
 No manual interaction should be needed for the daily usage. |
 
 | Topic | Responsible | Note |
@@ -47,6 +47,7 @@ No manual interaction should be needed for the daily usage. |
 | manage crontab entries | |
 | enable/disable services | |
 
+
 ## Networking
 | Topic | Responsible | Note |
 |-------|-------------|------|
@@ -56,9 +57,7 @@ No manual interaction should be needed for the daily usage. |
 | maintain local routes (running on the server) (default should be "none") | |
 
 
-
-
-## monitor
+## Monitor
 | Topic | Responsible | Note |
 |-------|-------------|------|
 | enough disk space | |
@@ -66,6 +65,7 @@ No manual interaction should be needed for the daily usage. |
 | system logs | |
 | application logs | |
 | RAID | |
+
 
 ## Hardware
 | Topic | Responsible | Note |
