@@ -36,7 +36,8 @@ No manual interaction should be needed for the daily usage.
 | replace hardware parts | |
 | upgrade operating system | |
 | create new linux users | |
-| manage RAID | |
+| manage Hardware RAID | |
+| manage Software RAID | |
 | create Cert (for example for https) | |
 | create SSH-server cert | |
 | unsure ssh-server cert does not change (on upgrade, or server move) | |
@@ -66,7 +67,8 @@ No manual interaction should be needed for the daily usage.
 | enough CPU, RAM, IO | |
 | system logs | |
 | application logs | |
-| RAID | |
+| Hardware RAID | |
+| Software RAID | |
 | Mail Queue | |
 | Hardware-Sensors | |
 | Service Availablity | |
