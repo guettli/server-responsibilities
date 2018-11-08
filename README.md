@@ -67,7 +67,11 @@ No manual interaction should be needed for the daily usage.
 | system logs | |
 | application logs | |
 | RAID | |
-
+| Mail Queue | |
+| Hardware-Sensors | |
+| Service Availablity | |
+| Filesystem health | |
+| Network health | |
 
 ## Hardware
 | Topic | Responsible | Note |
