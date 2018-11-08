@@ -19,7 +19,7 @@ No manual interaction should be needed for the daily usage.
 | run database client | |
 | run web server | |
 | provide RPM/DPKG repository | |
-| run mail server | |
+| run mail server on this server | |
 | provide smarthost for mail server. | |
 | provide IMAP/POP3 services | |
 | provide storage server | |
