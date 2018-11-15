@@ -51,6 +51,7 @@ No manual interaction should be needed for the daily usage.
 | enable/disable services | |
 | Provide access to BIOS  | |
 | Provide access to boot process | |
+| Licenses for commercial third-party software | |
 
 ## Networking
 | Topic | Responsible | Note |
