@@ -26,7 +26,9 @@ No manual interaction should be needed for the daily usage.
 | run storage client | |
 | run ssh server | |
 | Uninterruptible power supply | |
-
+| Provide access to BIOS  | |
+| Provide access to boot process | |
+ 
 
 ## Initial, Expand, Repair
 | Topic | Responsible | Note |
@@ -49,8 +51,6 @@ No manual interaction should be needed for the daily usage.
 | know root password | |
 | manage crontab entries | |
 | enable/disable services | |
-| Provide access to BIOS  | |
-| Provide access to boot process | |
 | Licenses for commercial third-party software | |
 
 ## Networking
@@ -59,7 +59,7 @@ No manual interaction should be needed for the daily usage.
 | provide default gateway | |
 | maintain local firewall (running on the server) (default should be "none") | |
 | maintain network firewall (running outside the server) | |
-| maintain local routes (running on the server) (default should be "none") | |
+| maintain local routes (running on the server) (default should be "none" (only Default-GW)) | |
 
 
 ## Monitor
