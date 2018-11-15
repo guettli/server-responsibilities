@@ -49,7 +49,8 @@ No manual interaction should be needed for the daily usage.
 | know root password | |
 | manage crontab entries | |
 | enable/disable services | |
-
+| Provide access to BIOS  | |
+| Provide access to boot process | |
 
 ## Networking
 | Topic | Responsible | Note |
