@@ -12,7 +12,7 @@ No manual interaction should be needed for the daily usage.
 | Topic | Responsible | Note |
 |-------|-------------|------|
 | provide dns server | |
-| provide ntp server | |
+| provide ntp (networking protocol for clock synchronization) server | |
 | run dns client | |
 | run ntp client | |
 | provide database | |
