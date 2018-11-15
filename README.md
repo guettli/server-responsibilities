@@ -1,10 +1,12 @@
 # server-responsibilities
 
-You want to host your application on servers provided by someone. Then this checklist might help. Who is responsible for what?
+You want to host your application on servers provided by someone, then this checklist might help. Who is responsible for what?
 
 Details like [SLA (service-level agreements)](https://en.wikipedia.org/wiki/Service-level_agreement) can be build on top of each topic.
 
-Feedback is welcome
+Feedback is welcome.
+
+Focus is on: [Virtual Private Servers](https://en.wikipedia.org/wiki/Virtual_private_server)
 
 ## Daily
 No manual interaction should be needed for the daily usage.
