@@ -74,7 +74,7 @@ No manual interaction should be needed for the daily usage.
 | Hardware RAID | |
 | Software RAID | |
 | Mail Queue | |
-| Hardware-Sensors | |
+| Hardware-Sensors (like temperature) | |
 | Service Availablity | |
 | Filesystem health | |
 | Network health | |
